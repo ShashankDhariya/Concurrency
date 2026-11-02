@@ -3,3 +3,16 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+.Multithreading and Concurrency.docx/
+
+# Build directories
+target/
+bin/
+out/
