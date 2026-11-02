@@ -10,7 +10,6 @@
 # IDE files
 .idea/
 .vscode/
-Multithreading and Concurrency.docx
 
 # Build directories
 target/
